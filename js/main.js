@@ -7,7 +7,7 @@ about.addEventListener('click', () => {
   const aboutBox = new WinBox({
     title: 'About Me',
     // background: '#00aa00',
-    modal: true,
+   
     width: '400px',
     height: '400px',
     top: '50',
